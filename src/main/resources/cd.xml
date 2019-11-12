@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+   <cd id="bk101">
+      <artist>Gambardella, Matthew</artist>
+      <title>XML Developer's Guide</title>
+      <price>44.95</price>
+      <publish_date>2000-10-01</publish_date>
+      <name>An in-depth look at creating applications 
+      with XML.</name>
+   </cd>
+   <cd id="bk102">
+      <artist>Ralls, Kim</artist>
+      <title>Midnight Rain</title>
+      <price>5.95</price>
+      <publish_date>2000-12-16</publish_date>
+      <name>A former architect battles corporate zombies, 
+      an evil sorceress, and her own childhood to become queen 
+      of the world.</name>
+   </cd>
+   <cd id="bk103">
+      <artist>Corets, Eva</artist>
+      <title>Maeve Ascendant</title>
+      <price>5.95</price>
+      <publish_date>2000-11-17</publish_date>
+      <name>After the collapse of a nanotechnology 
+      society in England, the young survivors lay the 
+      foundation for a new society.</name>
+   </cd>
+   <cd id="bk104">
+      <artist>Corets, Eva</artist>
+      <title>Oberon's Legacy</title>
+  
+      <price>5.95</price>
+      <publish_date>2001-03-10</publish_date>
+      <name>In post-apocalypse England, the mysterious 
+      agent known only as Oberon helps to create a new life 
+      for the inhabitants of London. Sequel to Maeve 
+      Ascendant.</name>
+   </cd>
+   <cd id="bk105">
+      <artist>Corets, Eva</artist>
+      <title>The Sundered Grail</title>
+ 
+      <price>5.95</price>
+      <publish_date>2001-09-10</publish_date>
+      <name>The two daughters of Maeve, half-sisters, 
+      battle one another for control of England. Sequel to 
+      Oberon's Legacy.</name>
+   </cd>
+   <cd id="bk106">
+      <artist>Randall, Cynthia</artist>
+      <title>Lover Birds</title>
+      <price>4.95</price>
+      <publish_date>2000-09-02</publish_date>
+      <name>When Carla meets Paul at an ornithology 
+      conference, tempers fly as feathers get ruffled.</name>
+   </cd>
+   <cd id="bk107">
+      <artist>Thurman, Paula</artist>
+      <title>Splish Splash</title>
+      <price>4.95</price>
+      <publish_date>2000-11-02</publish_date>
+      <name>A deep sea diver finds true love twenty 
+      thousand leagues beneath the sea.</name>
+   </cd>
+   <cd id="bk108">
+      <artist>Knorr, Stefan</artist>
+      <title>Creepy Crawlies</title>
+      <price>4.95</price>
+      <publish_date>2000-12-06</publish_date>
+      <name>An anthology of horror stories about roaches,
+      centipedes, scorpions  and other insects.</name>
+   </cd>
+   <cd id="bk109">
+      <artist>Kress, Peter</artist>
+      <title>Paradox Lost</title>
+      <price>6.95</price>
+      <publish_date>2000-11-02</publish_date>
+      <name>After an inadvertant trip through a Heisenberg
+      Uncertainty Device, James Salway discovers the problems 
+      of being quantum.</name>
+   </cd>
+   <cd id="bk110">
+      <artist>O'Brien, Tim</artist>
+      <title>Microsoft .NET: The Programming Bible</title>
+      <price>36.95</price>
+      <publish_date>2000-12-09</publish_date>
+      <name>Microsoft's .NET initiative is explored in 
+      detail in this deep programmer's reference.</name>
+   </cd>
+   <cd id="bk111">
+      <artist>O'Brien, Tim</artist>
+      <title>MSXML3: A Comprehensive Guide</title>
+      <price>36.95</price>
+      <publish_date>2000-12-01</publish_date>
+      <name>The Microsoft MSXML3 parser is covered in 
+      detail, with attention to XML DOM interfaces, XSLT processing, 
+      SAX and more.</name>
+   </cd>
+   <cd id="bk112">
+      <artist>Galos, Mike</artist>
+      <title>Visual Studio 7: A Comprehensive Guide</title>
+      <price>49.95</price>
+      <publish_date>2001-04-16</publish_date>
+      <name>Microsoft Visual Studio 7 is explored in depth,
+      looking at how Visual Basic, Visual C++, C#, and ASP+ are 
+      integrated into a comprehensive development 
+      environment.</name>
+   </cd>
+</catalog>
