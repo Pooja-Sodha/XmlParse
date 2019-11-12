@@ -1,4 +1,4 @@
-package com.journaldev.spring;
+package com.parsexml.spring;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
